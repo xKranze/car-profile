@@ -1,5 +1,6 @@
-*{
-    
+* {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 .turbo {
@@ -10,4 +11,8 @@ background-color: indigo;
 
 .boost {
    color: rgb(99, 18, 18); 
+}
+
+#exhaust {
+    color: blue;
 }
