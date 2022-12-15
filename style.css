@@ -5,12 +5,12 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
 .turbo {
 color: red;
-background-color: indigo;
+
 }
 
 
 .boost {
-   color: rgb(99, 18, 18); 
+   color:greenyellow
 }
 
 #exhaust {
@@ -24,5 +24,10 @@ background-color: indigo;
 
 #link {
 color: greenyellow;
+
+}
+
+#contact {
+color: white;
 
 }
